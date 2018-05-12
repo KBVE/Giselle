@@ -60,5 +60,5 @@ typings/
 # next.js build output
 .next
 
-# config.js should stay secret
-json/config.js
+# config.json should stay secret
+json/config.json
