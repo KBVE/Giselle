@@ -17,4 +17,5 @@ I do, however, have some specific functionality that I'd like Giselle to have, t
 ```
 Version . Description
 v0.1    . Simple N-Word and http link blocker for KBVE Public Access and Spec Ops Server
+v0.2    . Added a JSON database library (lowdb). The first step towards modularity.
 ```

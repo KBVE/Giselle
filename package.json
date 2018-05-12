@@ -1,0 +1,24 @@
+{
+  "name": "giselle",
+  "version": "0.2.0",
+  "description": "Friendly helpful discord bot that manages your messages and makes sure the server stays as innocent as she is.",
+  "main": "giselle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KBVE/Giselle.git"
+  },
+  "author": "Ziggy9263",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KBVE/Giselle/issues"
+  },
+  "homepage": "https://github.com/KBVE/Giselle#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "lowdb": "^1.0.0",
+    "node-ping": "^0.1.0"
+  }
+}

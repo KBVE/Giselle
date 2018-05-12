@@ -61,4 +61,4 @@ typings/
 .next
 
 # config.js should stay secret
-config.js
+json/config.js
